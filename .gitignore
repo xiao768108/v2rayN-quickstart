@@ -1,0 +1,7 @@
+﻿node_modules/
+package-lock.json
+.env
+*.log
+output/
+v2rayN-windows-64/
+templates/config-matched.json
