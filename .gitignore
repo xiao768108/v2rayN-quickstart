@@ -5,3 +5,6 @@ package-lock.json
 output/
 v2rayN-windows-64/
 templates/config-matched.json
+feedback-state.json
+feedback-raw-data.json
+feedback-report-*.md
