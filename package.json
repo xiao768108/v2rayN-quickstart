@@ -1,0 +1,12 @@
+{
+  "name": "v2rayn-quickstart",
+  "version": "1.0.0",
+  "description": "VLESS + REALITY 一键部署：从零搭建自己的翻墙服务器",
+  "private": true,
+  "scripts": {
+    "deploy": "node server/deploy.js"
+  },
+  "dependencies": {
+    "ssh2": "^1.16.0"
+  }
+}
